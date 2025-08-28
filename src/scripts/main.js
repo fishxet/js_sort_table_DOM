@@ -39,4 +39,4 @@ headerElements.map((x, index) => {
     rowsArray.forEach((item) => tbodyElement.appendChild(item));
   });
 });
-console.log(headerElements);
+
